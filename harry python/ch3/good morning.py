@@ -1,0 +1,5 @@
+a=("my name  is Shubh  ansh")
+print(a.find("  "))
+b=(a.replace("  "," "))
+print(b)
+print(b.find("  "))
