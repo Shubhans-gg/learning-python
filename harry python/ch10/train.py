@@ -26,5 +26,3 @@ my_ticket.status()
 my_ticket.fare()
 my_ticket.cancel()
 
-
-    
