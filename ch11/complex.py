@@ -14,6 +14,9 @@ class complex:
         sum_real=n1.real+n2.real
         sum_img=n1.img+n2.img
         return complex(sum_real,sum_img)
+    
+    def __mul__(self, other):
+        pass
 
 n1=complex(2,3) 
 n1.show()  
